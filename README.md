@@ -24,7 +24,7 @@
   
   ## Usage
   
-  After installation, use the application by running node index.js in your terminal. You'll be prompted with a series of questions about your project. Answer each question with appropriate information, and upon completion, a professional README.md file will be generated in the project directory. You can then copy this file to your own project or modify it as needed.
+  After installation, use the application by running `node index.js` in your terminal. You'll be prompted with a series of questions about your project. Answer each question with appropriate information, and upon completion, a professional `README.md` file will be generated in the project directory. You can then copy this file to your own project or modify it as needed.
   
   ## License
   
